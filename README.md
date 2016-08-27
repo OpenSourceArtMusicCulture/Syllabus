@@ -4,6 +4,8 @@
 
 IHSS 1965 - Fall 2016
 
+![xkcd open source](http://imgs.xkcd.com/comics/open_source.png)
+
 **Lectures, All Sections:** 
 
 	Monday, 4-6 PM  Prof. Malazita
