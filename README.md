@@ -16,31 +16,51 @@ IHSS 1965 - Fall 2016
 	
 	Section 04: Wednesday, 3-4 PM   Prof. Ruzanka
 
-**Professors: **
+**Professors:**
 
-	STS Lecture: Jim Malazita
-		
-	Studios: Shawn Lawson & Silvia Ruzanka
+	STS Lecture: 
+	Jim Malazita
+	Email: 
+	Office:
+	Office hours:
+	
+	Studios: 
+	Shawn Lawson 
+	Email:
+	Office:
+	Office hours:
+	
+	Silvia Ruzanka 
+	Email: ruzans@rpi.edu 
+	Office: Sage 4202 
+	Office hours: By appointment or Tuesdays 12:30 - 2 
 
 **Teaching Assistants:**
 	
-	Kat McDermott & Eric Miller 
+	Kat McDermott
+	Email:
+	Office:
+	Office hours:
+	
+	Eric Miller 
+	Email:
+	Office:
+	Office hours:
+	
 
+##Course Details:
 
-##Introduction:
+**Course Description:**
 
- 
-
-Learning Outcomes:
+**Learning Outcomes:**
 
 Upon completion of this course, students should have the following sets of skills:
 
-
-Texts:
+**Texts:**
 
 Readings will be posted on the course’s Blackboard Page.
 
-Assignments and Grade Breakdown:
+**Assignments and Grade Breakdown:**
 
 Project 1 – 15 points
 Project 2 – 15 points
@@ -52,18 +72,20 @@ Paper 2 – 15 points
 
 In-class essay responses – 15 points
 
-Project Descriptions:
+**Project Descriptions:**
 
 All text portions of projects (papers, write-ups) must be submitted to the course’s Blackboard page by midnight the night the assignment is due. 
 
 All Citations should use the Chicago Manual Of Style Guide: (http://www.chicagomanualofstyle.org/tools_citationguide.html) 
 
+All Studio Projects 
 
-Schedule:
+##Schedule:
 
-Week	Theme	Monday Lecture	Wednesday Studio
-Week 1,
-Aug 29th and 31st 	Introduction	Syllabus overview, meet and greet	
+| Week | Theme	| Monday Lecture | Wednesday Studio |
+| ---- | -----  | -------------- | ---------------  |
+|Week 1,Aug 29th and 31st | 	Introduction |Syllabus overview, meet and greet |  Introductions, software downloads |
+	
 Week 2,
 September 5th and 7th 	Labor Day 	Labor Day:
 NO CLASSES	
