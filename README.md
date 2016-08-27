@@ -98,7 +98,7 @@ For this course, the following penalties will apply:
 
 ##Schedule:
 
-| Week    | Theme	| Monday Lecture | Wednesday Studio |
+| Week and Date   | Theme	| Monday Lecture | Wednesday Studio |
 | ------- | -----  | -------------- | ---------------  |
 | Week 1,  Aug. 29th and 31st | Introduction | Syllabus overview, meet and greet | Introductions, software downloads |
 | Week 2,  Sept. 5th and 7th | Labor Day  | Labor Day: NO CLASSES | GIMP, collage, remix and appropriation |	
