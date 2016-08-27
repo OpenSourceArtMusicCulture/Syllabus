@@ -5,9 +5,11 @@
 IHSS 1965 - Fall 2016
 
 **Lectures, All Sections:** 
+
 	Monday, 4-6 PM  Prof. Malazita
 
 **Studio:**
+
 	Section 01: Wednesday, 12-2 PM  Prof. Lawson
 	Section 02: Wednesday, 3-4 PM   Prof. Lawson
 	Section 03: Wednesday, 12-2 PM  Prof. Ruzanka
@@ -62,15 +64,15 @@ IHSS 1965 - Fall 2016
 
 **Assignments and Grade Breakdown:**
 
-	|Assignment| Points |
-	|---|---|
-	|Project 1| 15 points|
-	|Project 2 |15 points|
-	|Project 3|15 points|
-	|Project 3 Final Write Up|  10 points|
-	|Paper 1|15 points|
-	|Paper 2|15 points|
-	|In-class essay responses|15 points|
+| Assignment | Points |
+| --- | --- |
+| Project 1 | 15 points|
+| Project 2 | 15 points|
+| Project 3|15 points|
+|Project 3 Final Write Up|  10 points|
+|Paper 1|15 points|
+|Paper 2|15 points|
+|In-class essay responses|15 points|
 
 **Project Descriptions:**
 
