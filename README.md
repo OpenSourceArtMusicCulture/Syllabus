@@ -98,23 +98,23 @@ For this course, the following penalties will apply:
 
 ##Schedule:
 
-| Week | Theme	| Monday Lecture | Wednesday Studio |
-| ---- | -----  | -------------- | ---------------  |
+| Week    | Theme	| Monday Lecture | Wednesday Studio |
+| ------- | -----  | -------------- | ---------------  |
 | Week 1,  Aug. 29th and 31st | Introduction | Syllabus overview, meet and greet | Introductions, software downloads |
 | Week 2,  Sept. 5th and 7th | Labor Day  | Labor Day: NO CLASSES | GIMP, collage, remix and appropriation |	
 | Week 3,  Sept. 12th and 14th | The History of “Open,” of “Source,” and of “Software” | “Conceiving Open Systems,” by Chris Kelty | Studio time |
 | Week 4,  Sept. 19th and 21st  | Coding Resistance: Making, Programming, and Knitting in Late Capitalism | “The Digital Touch: Craft-Work as Immaterial Labour and Ontological Accumulation,” by Jack Bratich | Project 1 Collage |
-| Week 5, Sept. 26th and 28th | Stealing, Appropriating, and Collaborating | “Toward an Open Source Poetics: Appropriation, Collaboration, and the Commons,” by Stephen Voyce | Studio |
-| Week 6, Oct. 3rd and 5th | The Everyday Practices of FLOSS Developers | “The Social Production of Ethics in Debian and Free Software Communities,” by E. Gabriella Coleman and Benjamin Hill | Project 1 Due, 10/5 (Crit) Paper 1 Due Friday, 10/7 |
-| Week 7, Oct. 11th and 12th | Social and Cultural Capital, Questions of Access | Columbus Day: MONDAY CLASSES HELD ON TUESDAY “Practicing at Home: Computers, Pianos, and Cultural Capital,” by Ellen Seiter | |
-| Week 8, Oct. 17th and 19th | What Can’t be Coded? | “Digital Dead End: Trapped in the Digital Divide,” by Virginia Eubanks| |
-| Week 9, Oct. 24th and 26th | The Embedded Politics of Computing | “Can an Algorithm be Agonistic?” by Kate Crawford | Due: Project 2 (Audio) |
-| Week 10, Oct. 31st and Nov. 2nd | BroCoders: What Counts as “Coding,” What Counts as “Work?” | "Masculine Culture," by Judy Wajcman AND “Why I am Not a Maker,” by Debbie Chachra |  |
-| Week 11, Nov. 7th and 9th | Queering the Ontologies of Computing | “QueerOS: A Users Manual,” by Fiona Barnett, et. al.| Due: Paper 2 11/11 | 
-| Week 12, Nov. 14th and 16th | The Tyranny of Inclusivity | “Radical Inclusion? Locating Accountability in Technical DIY,” by Christina Dunbar-Hester | Due: Project 3 First draft to peer |
-| Week 13, Nov. 21st | Hacking Systems, Hacking THE System | “(Re)Making the Internet: Free Software and the Social Factory Hack”, By Kate Millbery| Thanksgiving Break: NO CLASSES |
-|Week 14, Nov. 28th and 30th | The “Results” of Our Work | “Live Coding the Law: Improvisation, Code, and Copyright,” by Martin Zeilinger| |	
-|Week 15, Dec. 5th and 7th | Open Sourcing the Body | “Open Source Estrogen,” by Mary Maggic AND Open Source Gendercodes (http://opensourcegendercodes.com/projects/osg/)| Due: Project 3 Interactive processing project |
+| Week 5,  Sept. 26th and 28th | Stealing, Appropriating, and Collaborating | “Toward an Open Source Poetics: Appropriation, Collaboration, and the Commons,” by Stephen Voyce | Studio |
+| Week 6,  Oct. 3rd and 5th | The Everyday Practices of FLOSS Developers | “The Social Production of Ethics in Debian and Free Software Communities,” by E. Gabriella Coleman and Benjamin Hill | Project 1 Due, 10/5 (Crit) Paper 1 Due Friday, 10/7 |
+| Week 7,  Oct. 11th and 12th | Social and Cultural Capital, Questions of Access | Columbus Day: MONDAY CLASSES HELD ON TUESDAY “Practicing at Home: Computers, Pianos, and Cultural Capital,” by Ellen Seiter | |
+| Week 8,  Oct. 17th and 19th | What Can’t be Coded? | “Digital Dead End: Trapped in the Digital Divide,” by Virginia Eubanks| |
+| Week 9,  Oct. 24th and 26th | The Embedded Politics of Computing | “Can an Algorithm be Agonistic?” by Kate Crawford | Due: Project 2 (Audio) |
+| Week 10,  Oct. 31st and Nov. 2nd | BroCoders: What Counts as “Coding,” What Counts as “Work?” | "Masculine Culture," by Judy Wajcman AND “Why I am Not a Maker,” by Debbie Chachra |  |
+| Week 11,  Nov. 7th and 9th | Queering the Ontologies of Computing | “QueerOS: A Users Manual,” by Fiona Barnett, et. al.| Due: Paper 2 11/11 | 
+| Week 12,  Nov. 14th and 16th | The Tyranny of Inclusivity | “Radical Inclusion? Locating Accountability in Technical DIY,” by Christina Dunbar-Hester | Due: Project 3 First draft to peer |
+| Week 13,  Nov. 21st | Hacking Systems, Hacking THE System | “(Re)Making the Internet: Free Software and the Social Factory Hack”, By Kate Millbery| Thanksgiving Break: NO CLASSES |
+|Week 14,  Nov. 28th and 30th | The “Results” of Our Work | “Live Coding the Law: Improvisation, Code, and Copyright,” by Martin Zeilinger| |	
+|Week 15,  Dec. 5th and 7th | Open Sourcing the Body | “Open Source Estrogen,” by Mary Maggic AND Open Source Gendercodes (http://opensourcegendercodes.com/projects/osg/)| Due: Project 3 Interactive processing project |
 | Finals Week |	|	|	Due: Write up for final Project |
 
 
