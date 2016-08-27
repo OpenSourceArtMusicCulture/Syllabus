@@ -1,22 +1,33 @@
 # Open Source Art, Music, and Culture Syllabus
 
+##Course Information
+
 IHSS 1965 - Fall 2016
 
 **Lectures, All Sections:**  Monday, 4-6 PM  Prof. Malazita
+
 **Studio:**
+
 	Section 01: Wednesday, 12-2 PM  Prof. Lawson
+	
 	Section 02: Wednesday, 3-4 PM   Prof. Lawson
+	
 	Section 03: Wednesday, 12-2 PM  Prof. Ruzanka
+	
 	Section 04: Wednesday, 3-4 PM   Prof. Ruzanka
 
-Professors: 
+**Professors: **
+
 	STS Lecture: Jim Malazita
+		
 	Studios: Shawn Lawson & Silvia Ruzanka
 
-Teaching Assistants: Kat McDermott & Eric Miller 
+**Teaching Assistants:**
+	
+	Kat McDermott & Eric Miller 
 
 
-Introduction:
+##Introduction:
 
  
 
