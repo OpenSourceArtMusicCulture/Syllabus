@@ -4,16 +4,13 @@
 
 IHSS 1965 - Fall 2016
 
-**Lectures, All Sections:**  Monday, 4-6 PM  Prof. Malazita
+**Lectures, All Sections:** 
+	Monday, 4-6 PM  Prof. Malazita
 
 **Studio:**
-
 	Section 01: Wednesday, 12-2 PM  Prof. Lawson
-	
 	Section 02: Wednesday, 3-4 PM   Prof. Lawson
-	
 	Section 03: Wednesday, 12-2 PM  Prof. Ruzanka
-	
 	Section 04: Wednesday, 3-4 PM   Prof. Ruzanka
 
 **Professors:**
@@ -54,31 +51,34 @@ IHSS 1965 - Fall 2016
 
 **Learning Outcomes:**
 
-Upon completion of this course, students should have the following sets of skills:
+	Upon completion of this course, students should have the following sets of skills:
 
 **Texts:**
 
-Readings will be posted on the course’s Blackboard Page.
+	Readings will be posted on the course’s Blackboard Page.
+
+**Materials**
+	
 
 **Assignments and Grade Breakdown:**
 
-Project 1 – 15 points
-Project 2 – 15 points
-Project 3 – 15 points
-Project 3 Final Write Up – 10 points
-
-Paper 1 – 15 points
-Paper 2 – 15 points
-
-In-class essay responses – 15 points
+	|Assignment| Points |
+	|---|---|
+	|Project 1| 15 points|
+	|Project 2 |15 points|
+	|Project 3|15 points|
+	|Project 3 Final Write Up|  10 points|
+	|Paper 1|15 points|
+	|Paper 2|15 points|
+	|In-class essay responses|15 points|
 
 **Project Descriptions:**
 
-All text portions of projects (papers, write-ups) must be submitted to the course’s Blackboard page by midnight the night the assignment is due. 
+	All text portions of projects (papers, write-ups) must be submitted to the course’s Blackboard page by midnight the night the assignment is due. 
 
-All Citations should use the Chicago Manual Of Style Guide: (http://www.chicagomanualofstyle.org/tools_citationguide.html) 
+	All Citations should use the Chicago Manual Of Style Guide: (http://www.chicagomanualofstyle.org/tools_citationguide.html) 
 
-All Studio Projects 
+	All Studio Projects are due at the beginning of class.  Participation in critique is mandatory.
 
 ##Schedule:
 
