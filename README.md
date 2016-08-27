@@ -88,7 +88,6 @@ All Studio Projects
 | Week 2, Sept. 5th and 7th | Labor Day  | Labor Day: NO CLASSES | GIMP, collage, remix and appropriation |	
 | Week 3, Sept. 12th and 14th | The History of “Open,” of “Source,” and of “Software” | “Conceiving Open Systems,” by Chris Kelty | Studio time |
 | Week 4, Sept. 19th and 21st  | Coding Resistance: Making, Programming, and Knitting in Late Capitalism | “The Digital Touch: Craft-Work as Immaterial Labour and Ontological Accumulation,” by Jack Bratich | Project 1 Collage |
-
 | Week 5, Sept. 26th and 28th | Stealing, Appropriating, and Collaborating | “Toward an Open Source Poetics: Appropriation, Collaboration, and the Commons,” by Stephen Voyce | Studio |
 | Week 6, Oct. 3rd and 5th | The Everyday Practices of FLOSS Developers | “The Social Production of Ethics in Debian and Free Software Communities,” by E. Gabriella Coleman and Benjamin Hill | Project 1 Due, 10/5 (Crit) Paper 1 Due Friday, 10/7 |
 | Week 7, Oct. 11th and 12th | Social and Cultural Capital, Questions of Access | Columbus Day: MONDAY CLASSES HELD ON TUESDAY “Practicing at Home: Computers, Pianos, and Cultural Capital,” by Ellen Seiter | |
