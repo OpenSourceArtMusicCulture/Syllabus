@@ -76,11 +76,12 @@ IHSS 1965 - Fall 2016
 
 **Project Descriptions:**
 
-	All text portions of projects (papers, write-ups) must be submitted to the course’s Blackboard page by midnight the night the assignment is due. 
+	All papers and write-ups must be submitted to LMS by midnight the night the assignment is due. 
 
-	All Citations should use the Chicago Manual Of Style Guide: (http://www.chicagomanualofstyle.org/tools_citationguide.html) 
+	All citations should use the Chicago Manual Of Style Guide: 
+	(http://www.chicagomanualofstyle.org/tools_citationguide.html) 
 
-	All Studio Projects are due at the beginning of class.  Participation in critique is mandatory.
+	All studio projects are due at the beginning of class.  Participation in critique is mandatory.
 
 ##Schedule:
 
