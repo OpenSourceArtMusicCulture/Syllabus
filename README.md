@@ -85,11 +85,8 @@ All Studio Projects
 | Week | Theme	| Monday Lecture | Wednesday Studio |
 | ---- | -----  | -------------- | ---------------  |
 | Week 1, Aug 29th and 31st | Introduction | Syllabus overview, meet and greet | Introductions, software downloads |
-	
 | Week 2, Sept. 5th and 7th | Labor Day  | Labor Day: NO CLASSES | GIMP, collage, remix and appropriation |	
-
 | Week 3, Sept. 12th and 14th | The History of “Open,” of “Source,” and of “Software” | “Conceiving Open Systems,” by Chris Kelty | Studio time |
-	
 | Week 4, Sept. 19th and 21st  | Coding Resistance: Making, Programming, and Knitting in Late Capitalism | “The Digital Touch: Craft-Work as Immaterial Labour and Ontological Accumulation,” by Jack Bratich | Project 1 Collage |
 
 | Week 5, September 26th and 28th | Stealing, Appropriating, and Collaborating |	“Toward an Open Source Poetics: Appropriation, Collaboration, and the Commons,” by Stephen Voyce | Studio |
