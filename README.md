@@ -33,7 +33,7 @@ IHSS 1965 - Fall 2016
 	Office phone: 518_276_2206
 	
 	Silvia Ruzanka 
-	Email: ruzans@rpi.edu 
+	Email: ruzans [at] rpi.edu 
 	Office: Sage 4202 
 	Office hours: By appointment or Tuesdays 12:30 - 2 
 
