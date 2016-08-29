@@ -27,7 +27,7 @@ IHSS 1965 - Fall 2016
 	
 	Studios: 
 	Shawn Lawson 
-	Email: lawsos2 [at] rpi.edu
+	Email: lawsos2 [at] rpi edu
 	Office: West Hall 314
 	Office hours: Tue/Fri 11a - noon and by appointment
 	Office phone: 518_276_2206
@@ -40,14 +40,14 @@ IHSS 1965 - Fall 2016
 **Teaching Assistants:**
 	
 	Kat McDermott
-	Email:
+	Email: mcderk3 [at] rpi edu
 	Office: West Hall 315
 	Office hours:
 	
 	Eric Miller 
-	Email:
+	Email: mille [at] rpi edu
 	Office: West Hall 414 (on right)
-	Office hours:
+	Office hours: Thur 1p-3p
 	
 
 ##Course Details:
