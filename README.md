@@ -45,7 +45,7 @@ IHSS 1965 - Fall 2016
 	Office hours:
 	
 	Eric Miller 
-	Email: mille [at] rpi edu
+	Email: millee15 [at] rpi edu
 	Office: West Hall 414 (on right)
 	Office hours: Thur 1p-3p
 	
