@@ -42,7 +42,7 @@ IHSS 1965 - Fall 2016
 	Kat McDermott
 	Email: mcderk3 [at] rpi edu
 	Office: West Hall 315
-	Office hours:
+	Office hours: Tue 10a - noon and by appointment
 	
 	Eric Miller 
 	Email: mille [at] rpi edu
