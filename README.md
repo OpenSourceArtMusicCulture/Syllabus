@@ -21,16 +21,17 @@ IHSS 1965 - Fall 2016
 
 	STS Lecture: 
 	Jim Malazita
-	Email: 
-	Office:
+	Email: malazj [ at ] rpi edu
+	Office: Sage Lab 5410
 	Office hours:
+	Office phone: x6390
 	
 	Studios: 
 	Shawn Lawson 
 	Email: lawsos2 [at] rpi edu
 	Office: West Hall 314
 	Office hours: Tue/Fri 11a - noon and by appointment
-	Office phone: 518_276_2206
+	Office phone: x2206
 	
 	Silvia Ruzanka 
 	Email: ruzans@rpi.edu 
