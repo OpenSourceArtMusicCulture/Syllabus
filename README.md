@@ -34,7 +34,7 @@ IHSS 1965 - Fall 2016
 	Office phone: x2206
 	
 	Silvia Ruzanka 
-	Email: ruzans@rpi.edu 
+	Email: ruzans [at] rpi.edu 
 	Office: Sage 4202 
 	Office hours: By appointment or Tuesdays 12:30 - 2 
 
@@ -46,7 +46,7 @@ IHSS 1965 - Fall 2016
 	Office hours: Tue 10a - noon and by appointment
 	
 	Eric Miller 
-	Email: mille [at] rpi edu
+	Email: millee15 [at] rpi edu
 	Office: West Hall 414 (on right)
 	Office hours: Thur 1p-3p
 	
